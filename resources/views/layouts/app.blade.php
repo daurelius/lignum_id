@@ -23,19 +23,7 @@
         <div class="main">
             <section class="page1">
                 <div id="container_pg1">
-                    <div class= "page_left">
-                        <img src="img/logo1.png" class="logo_nplc">
-                        <div class="keterangan_pg1">
-                            <p>
-                               Khusus untuk kamu yang masih SMA! Ayo daftarkan teammu dalam lomba bergengsi yang diadakan setiap tahun 
-                               oleh Student Union Information and Multimedia Technology (IMT) Universitas Ciputra. Lomba ini cocok
-                               buat kamu yang ingin mencari keseruan sambil mengasah kemampuan coding atau menjawab soal-soal logika. 
-                               Buruan daftar sekarang dengan klik tombol dibawah ini!
-                            </p>
-                        </div>
-                        <a class="btn btn-danger" id="btnPage1" role="button" href = "http://bit.ly/7thNPLC" target="_blank">DAFTAR SEKARANG</a>
-                    </div>
-                    <img src="img/img_pg1.png" class="image1">
+                    
                 </div>
             </section>
             <section class="page2">
