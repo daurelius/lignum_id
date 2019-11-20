@@ -1,3 +1,32 @@
+#btnPage1{
+    margin : 2em auto;
+    border-radius: 5px;
+    width: 30%;
+    background-color: #a62627;
+}
+#btnPage1:hover{
+    background-color: #cc2d2d;
+}
+.logo_hero{
+    width : 25%;
+    margin : 3em auto;
+}
+.keterangan_pg1{
+    width: 50%;
+    margin : 2em auto;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#container_pg1{
+    background-image: url("../img/bg1_bnw.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+/* ini versi lama */
 html {
     height: 100%;
 }
@@ -19,13 +48,7 @@ p{
     margin: 0 auto;
 }
 
-#container_pg1{
-    background-image: url("../img/bg1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-    margin: 0 auto;
-}
+
 #container_pg2{
     background-image: url("../img/bg2.png");
     background-repeat: no-repeat;
@@ -67,12 +90,7 @@ p{
     margin-left: 98px;
     margin-top: 50px;
 }
-.keterangan_pg1{
-    width: 385px;
-    margin-left: 199px;
-    margin-top: -55px;
-    margin-right: 0;
-}
+
 .keterangan_pg2{
     margin-top: 210px;
     width: 550px;
@@ -85,12 +103,6 @@ p{
 .keterangan_pg4{
     width: 550px;
     margin-left: 75px;
-}
-#btnPage1{
-    margin-left: 199px;
-    border-radius: 5px;
-    width: 30%;
-    background-color: #a62627;
 }
 #btnPage2{
     display: block;
@@ -111,9 +123,7 @@ p{
     border: none;
     align-self: center;
 }
-#btnPage1:hover{
-    background-color: #cc2d2d;
-}
+
 #btnPage2:hover{
     background-color: #cc2d2d;
 }
