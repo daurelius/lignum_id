@@ -23,7 +23,7 @@
         <div class="main">
             <section class="page1">
                 <div id="container_pg1">
-                    <img src="img/lignum_logo.jpg" class="logo_hero">
+                    <img src="img/lignum_logo.png" class="logo_hero">
                     <div class="keterangan_pg1">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                         Sed quis metus sed mauris mollis rutrum porttitor a magna. 
